@@ -7,3 +7,5 @@ paths:
   - "com/itemis/jenkins/plugins/unleash"
 developers:
   - "mhoffrog"
+cd:
+  enabled: true
